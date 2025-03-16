@@ -1,6 +1,6 @@
 # Introduction
 ### What is Git?
-- Git은 **분산 버전 관리 시스템(Distributed Version Control System)**으로, 소프트웨어 개발 중 소스코드의 변경사항을 추적하는 기능을 제공한다.
+- Git은 **분산 버전 관리 시스템**(Distributed Version Control System)으로, 소프트웨어 개발 중 소스코드의 변경사항을 추적하는 기능을 제공한다.
 - 여러 개발자가 같은 프로젝트에서 서로의 작업을 덮어쓰지 않도록 하는 기능을 제공한다.
 - 주요 개념: 리포지토리(Repository), 커밋(Commit), 브랜치(Branch), 머지(Merge)
 
